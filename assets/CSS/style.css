@@ -450,12 +450,6 @@ header {
 
 }
 
-/* .description{
-    color: #f1683a;
-} */
-
-
-/* button */
 
 .buttons .btnLogin-popup {
     position: relative;
@@ -749,6 +743,12 @@ header {
     .carousel .list .item .topic {
         font-size: 45px;
     }
+    .item {
+        position: relative;
+        bottom: 10px;
+        left: 30px;
+    }
+    
 }
 
 /* responsivo do menu */
@@ -845,13 +845,6 @@ html {
     scroll-behavior: smooth;
 }
 
-/* body {
-  margin: var(--header-height) 0 0 0;
-  font-family: var(--body-font);
-  font-size: var(--normal-font-size);
-  background-color: var(--body-color);
-  color: var(--text-color);
-} */
 
 ul {
     list-style: none;
