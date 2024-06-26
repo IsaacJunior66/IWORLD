@@ -112,7 +112,6 @@
     }
 
     .Blog-container {
-        margin: 10px 20px; 
         position: relative;
         right: 10px;
     }
@@ -129,7 +128,7 @@
 
     .Blog-details,
     .Blog-title {
-        top: 0; 
+        top: 7px; 
     }
 
     .pagination {
